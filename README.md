@@ -1,4 +1,4 @@
-# Gesture-Based-Control-for-YouTube
+# Gesture Based Control for YouTube
 Summary: Developed a Python-based gesture recognition system using mediapipe to control YouTube playback. Hand landmarks were detected in real-time, enabling gestures for pause, play, and speed adjustment. Implemented data logging to store landmarks, gestures, and timestamps in a CSV file for analysis.
 
 A project called GestureTube aims to improve YouTube’s user experience by incorporating gesture-based controls. Users are constantly looking for fresh ways to engage with YouTube due to its rising popularity. Users may navigate through videos, change the volume, and carry out other actions on YouTube with the help of gesture-based controls rather than using physical buttons or voice instructions.
